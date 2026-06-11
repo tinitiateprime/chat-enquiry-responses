@@ -15,12 +15,13 @@
 📚 Course: Java Basics
 🌐 Mode: Remote / Online
 👨‍🏫 Trainer: Industry Experienced Professionals
-🕒 Flexible Timings
+🕒 Course Duration 2 Months
 🎯 Hands-on Projects & Interview Preparation
  
 💰 Course Fee: ₹15,000
 🔥 Special Discount Price: ₹10,000 Only! 🔥
- 
+
+✅ Gen AI (Claude, ChatGPT, Co-Pilot) 
 ✅ Live Interactive Sessions
 ✅ Real-Time Project Experience
 ✅ Resume Building Support
@@ -35,7 +36,6 @@ https://tinitiateai.com/courses/java-language-course
 ```
 ---
 ## Python
-
 ```yml
 
 🚀 Tinitiate AI IT Training 🚀
@@ -43,12 +43,13 @@ https://tinitiateai.com/courses/java-language-course
 📚 Course: Python
 🌐 Mode: Remote / Online
 👨‍🏫 Trainer: Industry Experienced Professionals
-🕒 Flexible Timings
+🕒 Course Duration 2 Months
 🎯 Hands-on Projects & Interview Preparation
  
 💰 Course Fee: ₹15,000
 🔥 Special Discount Price: ₹10,000 Only! 🔥
- 
+
+✅ Gen AI (Claude, ChatGPT, Co-Pilot) 
 ✅ Live Interactive Sessions
 ✅ Real-Time Project Experience
 ✅ Resume Building Support
@@ -57,7 +58,7 @@ https://tinitiateai.com/courses/java-language-course
  
 📍 Location: Remote (Attend from Anywhere)
 📞 Enroll Today – Limited Seats Available!
-💡 Start your Java career with practical, industry-focused training.
+💡 Start your Python career with practical, industry-focused training.
 📲 Python Syllabus 
 https://tinitiateai.com/courses/python-language-course
 ```
@@ -70,12 +71,13 @@ https://tinitiateai.com/courses/python-language-course
 📚 Course: JavaScript / HTML / CSS
 🌐 Mode: Remote / Online
 👨‍🏫 Trainer: Industry Experienced Professionals
-🕒 Flexible Timings
+🕒 Course Duration 2 Months
 🎯 Hands-on Projects & Interview Preparation
  
 💰 Course Fee: ₹15,000
 🔥 Special Discount Price: ₹10,000 Only! 🔥
- 
+
+✅ Gen AI (Claude, ChatGPT, Co-Pilot)
 ✅ Live Interactive Sessions
 ✅ Real-Time Project Experience
 ✅ Resume Building Support
@@ -84,7 +86,7 @@ https://tinitiateai.com/courses/python-language-course
  
 📍 Location: Remote (Attend from Anywhere)
 📞 Enroll Today – Limited Seats Available!
-💡 Start your Java career with practical, industry-focused training.
+💡 Start your Web Developer career with practical, industry-focused training.
 📲 JavaScript / HTML / CSS Syllabus 
 https://tinitiateai.com/courses/javascript-language-course
 ```
@@ -97,12 +99,13 @@ https://tinitiateai.com/courses/javascript-language-course
 📚 Course: TypeScript
 🌐 Mode: Remote / Online
 👨‍🏫 Trainer: Industry Experienced Professionals
-🕒 Flexible Timings
+🕒 Course Duration 2 Months
 🎯 Hands-on Projects & Interview Preparation
  
 💰 Course Fee: ₹15,000
 🔥 Special Discount Price: ₹10,000 Only! 🔥
- 
+
+✅ Gen AI (Claude, ChatGPT, Co-Pilot) 
 ✅ Live Interactive Sessions
 ✅ Real-Time Project Experience
 ✅ Resume Building Support
@@ -111,7 +114,7 @@ https://tinitiateai.com/courses/javascript-language-course
  
 📍 Location: Remote (Attend from Anywhere)
 📞 Enroll Today – Limited Seats Available!
-💡 Start your Java career with practical, industry-focused training.
+💡 Start your TypeScript career with practical, industry-focused training.
 📲 TypeScript Syllabus 
 https://tinitiateai.com/courses/typescript-beginner-course
 ```
@@ -124,12 +127,13 @@ https://tinitiateai.com/courses/typescript-beginner-course
 📚 Course: SQL
 🌐 Mode: Remote / Online
 👨‍🏫 Trainer: Industry Experienced Professionals
-🕒 Flexible Timings
+🕒 Course Duration 2 Months
 🎯 Hands-on Projects & Interview Preparation
  
 💰 Course Fee: ₹15,000
 🔥 Special Discount Price: ₹10,000 Only! 🔥
- 
+
+✅ Gen AI (Claude, ChatGPT, Co-Pilot) 
 ✅ Live Interactive Sessions
 ✅ Real-Time Project Experience
 ✅ Resume Building Support
@@ -138,7 +142,7 @@ https://tinitiateai.com/courses/typescript-beginner-course
  
 📍 Location: Remote (Attend from Anywhere)
 📞 Enroll Today – Limited Seats Available!
-💡 Start your Java career with practical, industry-focused training.
+💡 Start your SQL career with practical, industry-focused training.
 📲 SQL Syllabus 
 https://tinitiateai.com/courses/sql-server-beginner-course
 ```
@@ -151,12 +155,13 @@ https://tinitiateai.com/courses/sql-server-beginner-course
 📚 Course: Data Structures
 🌐 Mode: Remote / Online
 👨‍🏫 Trainer: Industry Experienced Professionals
-🕒 Flexible Timings
+🕒 Course Duration 2 Months
 🎯 Hands-on Projects & Interview Preparation
  
 💰 Course Fee: ₹15,000
 🔥 Special Discount Price: ₹10,000 Only! 🔥
  
+✅ Gen AI (Claude, ChatGPT, Co-Pilot) 
 ✅ Live Interactive Sessions
 ✅ Real-Time Project Experience
 ✅ Resume Building Support
@@ -165,10 +170,19 @@ https://tinitiateai.com/courses/sql-server-beginner-course
  
 📍 Location: Remote (Attend from Anywhere)
 📞 Enroll Today – Limited Seats Available!
-💡 Start your Java career with practical, industry-focused training.
+💡 Start your Data Structures Journey with practical, industry-focused training.
 📲 Data Structures Syllabus 
 https://tinitiateai.com/courses/data-structures-beginner-course
 ```
+
+
+
+
+
+
+
+
+
 
 
 
