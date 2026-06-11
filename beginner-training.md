@@ -1,3 +1,15 @@
+# Professional Courses
+* [home](README.MD)
+* [professional-training.md](professional-training.md)
+* [beginner-training](beginner-training.md)
+* [F.A.Q - Fees](faq-fees.md)
+* [F.A.Q - Training](faq-training.md)
+* [F.A.Q - Placement Assistance](faq-Placement.md)
+
+---
+## Java Basics
+```yml
+
 🚀 Tinitiate AI IT Training 🚀
  
 📚 Course: Java Basics
@@ -20,7 +32,11 @@
 💡 Start your Java career with practical, industry-focused training.
 📲 JAVA Syllabus 
 https://tinitiateai.com/courses/java-language-course
- 
+```
+---
+## Python
+
+```yml
 
 🚀 Tinitiate AI IT Training 🚀
  
@@ -44,7 +60,10 @@ https://tinitiateai.com/courses/java-language-course
 💡 Start your Java career with practical, industry-focused training.
 📲 Python Syllabus 
 https://tinitiateai.com/courses/python-language-course
-
+```
+---
+## JavaScript / HTML / CSS
+```yml
 
 🚀 Tinitiate AI IT Training 🚀
  
@@ -68,7 +87,10 @@ https://tinitiateai.com/courses/python-language-course
 💡 Start your Java career with practical, industry-focused training.
 📲 JavaScript / HTML / CSS Syllabus 
 https://tinitiateai.com/courses/javascript-language-course
-
+```
+---
+## TypeScript
+```yml
 
 🚀 Tinitiate AI IT Training 🚀
  
@@ -92,7 +114,10 @@ https://tinitiateai.com/courses/javascript-language-course
 💡 Start your Java career with practical, industry-focused training.
 📲 TypeScript Syllabus 
 https://tinitiateai.com/courses/typescript-beginner-course
-
+```
+---
+## SQL
+```yml
 
 🚀 Tinitiate AI IT Training 🚀
 
@@ -116,7 +141,10 @@ https://tinitiateai.com/courses/typescript-beginner-course
 💡 Start your Java career with practical, industry-focused training.
 📲 SQL Syllabus 
 https://tinitiateai.com/courses/sql-server-beginner-course
-
+```
+---
+## Data Structures
+```yml
 
 🚀 Tinitiate AI IT Training 🚀
 
@@ -140,7 +168,7 @@ https://tinitiateai.com/courses/sql-server-beginner-course
 💡 Start your Java career with practical, industry-focused training.
 📲 Data Structures Syllabus 
 https://tinitiateai.com/courses/data-structures-beginner-course
-
+```
 
 
 
