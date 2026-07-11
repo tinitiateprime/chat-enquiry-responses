@@ -15,11 +15,11 @@ Job-ready profile.
 ```
 
 ```
-🛠 Interview & Placement Support
+💼 Resume & Referral Support
 
-We prepare you with mock interviews, technical assessments, live coding, and role-specific interview guidance to help you succeed.
+We help you build a professional resume and portfolio that highlights the real projects you complete during your internship.
 
-⏳ Our placement team continues to support you with job opportunities, referrals, and mentorship until you secure your IT role.
+🎯 Eligible candidates are referred through our hiring network and industry partners, helping you connect with companies looking for skilled professionals.
 
 📲 WhatsApp: +91 6309123485
 💬 https://wa.link/yazdzs
@@ -28,7 +28,7 @@ We prepare you with mock interviews, technical assessments, live coding, and rol
 ```
 
 ```
-🛠 Interview & Placement Support
+🛠 Interview Prep & Ongoing Support
 
 We prepare you with mock interviews, technical assessments, live coding, and role-specific interview guidance.
 
