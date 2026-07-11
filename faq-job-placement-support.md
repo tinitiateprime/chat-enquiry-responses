@@ -15,11 +15,11 @@ Job-ready profile.
 ```
 
 ```
-💼 Resume & Placement Support
+🛠 Interview & Placement Support
 
-We help you build a professional resume and portfolio using the real projects you complete during your internship.
+We prepare you with mock interviews, technical assessments, live coding, and role-specific interview guidance to help you succeed.
 
-🎯 We also connect eligible candidates with our hiring partners and industry network, increasing your opportunities to secure interviews and launch your IT career.
+⏳ Our placement team continues to support you with job opportunities, referrals, and mentorship until you secure your IT role.
 
 📲 WhatsApp: +91 6309123485
 💬 https://wa.link/yazdzs
@@ -28,15 +28,15 @@ We help you build a professional resume and portfolio using the real projects yo
 ```
 
 ```
-🛠 **Interview & Placement Support**
+🛠 Interview & Placement Support
 
-We prepare you with mock interviews, technical assessments, live coding, and role-specific interview guidance to help you succeed.
+We prepare you with mock interviews, technical assessments, live coding, and role-specific interview guidance.
 
-⏳ Our placement team continues to support you with job opportunities, referrals, and mentorship until you secure your IT role.
+⏳ Our placement team supports you with job opportunities, referrals, and mentorship until you secure your IT role.
 
 📲 WhatsApp: +91 6309123485
 💬 https://wa.link/yazdzs
-📧 [contact@tinitiateai.com](mailto:contact@tinitiateai.com)
+📧 contact@tinitiateai.com
 🌐 tinitiateai.com/pricing
 
 ```
