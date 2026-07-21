@@ -1,10 +1,12 @@
-# Professional Courses
-* [home](README.MD)
-* [professional-training.md](professional-training.md)
-* [beginner-training](beginner-training.md)
+# Beginner Courses
+* [Home](README.md)
+* [Professional Training](professional-training.md)
+* [Beginner Training](beginner-training.md)
+* [Work Experience Program](work-experience-program.md)
 * [F.A.Q - Fees](faq-fees.md)
 * [F.A.Q - Training](faq-training.md)
 * [F.A.Q - Placement Assistance](faq-Placement.md)
+* [WhatsApp Enquiry Templates](tinitiate-whatsapp-enquiry-templates.md)
 
 ---
 ## Java Basics

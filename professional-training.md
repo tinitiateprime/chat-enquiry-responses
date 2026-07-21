@@ -1,10 +1,12 @@
 # Professional Courses
-* [home](README.MD)
-* [professional-training.md](professional-training.md)
-* [beginner-training](beginner-training.md)
+* [Home](README.md)
+* [Professional Training](professional-training.md)
+* [Beginner Training](beginner-training.md)
+* [Work Experience Program](work-experience-program.md)
 * [F.A.Q - Fees](faq-fees.md)
 * [F.A.Q - Training](faq-training.md)
 * [F.A.Q - Placement Assistance](faq-Placement.md)
+* [WhatsApp Enquiry Templates](tinitiate-whatsapp-enquiry-templates.md)
 ---
 ## Java
 ```yml
@@ -236,12 +238,12 @@ https://tinitiateai.com/training/professional-training/gcp-data-engineering
 ```
 ---
 
-##  Visualization
+##  Power BI Reporting
 ```yml
 
 🚀 Tinitiate AI IT Training 🚀
  
-📚 Course: Visualization
+📚 Course:  Power BI Reporting
 🌐 Mode: Remote / Online
 👨‍🏫 Trainer: Industry Experienced Professionals
 🕒 Course Duration 4 Months
