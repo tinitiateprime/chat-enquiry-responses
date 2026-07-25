@@ -21,6 +21,13 @@ Please share more details about the role and application process.
 ---
 
 ## Job Posting Data Engineering Trainer
+
+### File Name
+```
+Job-Posting-Data-Engineering-Trainer.svg
+```
+
+
 ### Phone number 
 ```
 +91 6309123486
@@ -31,7 +38,9 @@ Hello Tintiate AI,
 I’m interested in the Data Engineering  IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
- 
+### QR CODE
+![qr-code-image/Job-Posting-Data-Engineering-Trainer.svg]()
+
 ---
 
 ## Job Posting SQL Trainer
@@ -45,6 +54,8 @@ Hello Tintiate AI,
 I’m interested in the SQL IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
+### QR CODE
+
 
 ---
 
@@ -59,6 +70,8 @@ Hello Tintiate AI,
 I’m interested in the Python AI API Agentic IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
+### QR CODE
+
 
 ---
 
@@ -73,6 +86,8 @@ Hello Tintiate AI,
 I’m interested in the AWS Data Engineering  IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
+### QR CODE
+
 
 ---
 
@@ -87,6 +102,8 @@ Hello Tintiate AI,
 I’m interested in the Azure Data Engineering  IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
+### QR CODE
+
 
 ---
 
@@ -101,6 +118,8 @@ Hello Tintiate AI,
 I’m interested in the AWS Data Engineering  IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
+### QR CODE
+
 
 ---
 
@@ -115,6 +134,8 @@ Hello Tintiate AI,
 I’m interested in the Snowflake  IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
+### QR CODE
+
 
 ---
 
@@ -129,6 +150,8 @@ Hello Tintiate AI,
 I’m interested in the DataBricks IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
+### QR CODE
+
 
 ---
 
@@ -143,6 +166,8 @@ Hello Tintiate AI,
 I’m interested in the Full Stack Java IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
+### QR CODE
+
 
 ---
 
@@ -157,3 +182,6 @@ Hello Tintiate AI,
 I’m interested in the Full Stack Java IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
+### QR CODE
+
+
