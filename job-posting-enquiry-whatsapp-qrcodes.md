@@ -14,6 +14,9 @@ Hello Tintiate AI,
 I’m interested in the Full-Stack Development IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
+### QR CODE 
+<img width="391" height="388" alt="image" src="https://github.com/user-attachments/assets/a47f3a5b-6b14-4460-aefe-728f77fcf4f0" />
+
 
 ---
 
