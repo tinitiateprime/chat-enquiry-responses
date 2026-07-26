@@ -107,7 +107,7 @@ Please share more details about the role and application process.
 ```
 ### QR CODE
 
-![Azure_Data_Engineering_Trainer QR Code](./qr-code-image/Job-Posting-AZURE-Data-Engineering-Trainer.svg)
+![AZURE_Data_Engineering_Trainer QR Code](./qr-code-image/Job-Posting-AZURE-Data-Engineering-Trainer.svg)
 
 ---
 
