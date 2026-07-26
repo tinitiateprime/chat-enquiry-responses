@@ -55,6 +55,7 @@ I’m interested in the SQL IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
 ### QR CODE
+
 ![SQL Trainer QR Code](./qr-code-image/Job-Posting-SQL-Trainer.svg)
 
 ---
