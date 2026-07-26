@@ -15,7 +15,7 @@ I’m interested in the Full-Stack Development IT Trainer position at Tinitiate 
 Please share more details about the role and application process.
 ```
 ### QR CODE 
-https://github.com/tinitiateprime/chat-enquiry-responses/blob/main/qr-code-image/Job-Posting-FullStack-React-NextJS-NodeJS-Trainer.svg
+
 ![Full_Stack Trainer QR Code](./qr-code-image/Job-Posting-FullStack-React-NextJS-NodeJS-Trainer.svg)
 
 ---
