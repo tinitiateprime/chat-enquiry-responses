@@ -55,7 +55,7 @@ I’m interested in the SQL IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
 ### QR CODE
-
+![SQL Trainer QR Code](./qr-code-image/Job-Posting-SQL-Trainer.svg)
 
 ---
 
@@ -72,6 +72,7 @@ Please share more details about the role and application process.
 ```
 ### QR CODE
 
+![Python_AI_API_Agentic_Trainer QR Code](./qr-code-image/Job-Posting-Python-AI-API-Agentic-Trainer.svg)
 
 ---
 
@@ -88,6 +89,7 @@ Please share more details about the role and application process.
 ```
 ### QR CODE
 
+![AWS_Data_Engineering_Trainer QR Code](./qr-code-image/Job-Posting-AWS-Data-Engineering-Trainer.svg)
 
 ---
 
@@ -104,10 +106,11 @@ Please share more details about the role and application process.
 ```
 ### QR CODE
 
+![Azure_Data_Engineering_Trainer QR Code](./qr-code-image/Job-Posting-AZURE-Data-Engineering-Trainer.svg)
 
 ---
 
-## Job Posting AWS Data Engineering Trainer
+## Job Posting GCP Data Engineering Trainer
 ### Phone number 
 ```
 +91 6309123486
@@ -115,11 +118,12 @@ Please share more details about the role and application process.
 ### Message :
 ```
 Hello Tintiate AI,
-I’m interested in the AWS Data Engineering  IT Trainer position at Tinitiate AI Solutions.
+I’m interested in the GCP Data Engineering  IT Trainer position at Tinitiate AI Solutions.
 Please share more details about the role and application process.
 ```
 ### QR CODE
 
+![GCP_Data_Engineering_Trainer QR Code](./qr-code-image/Job-Posting-GCP-Data-Engineering-Trainer.svg)
 
 ---
 
@@ -136,6 +140,7 @@ Please share more details about the role and application process.
 ```
 ### QR CODE
 
+![Snowflake_Data_Engineering_Trainer QR Code](./qr-code-image/Job-Posting-Snowflake-Data-Engineering-Trainer.svg)
 
 ---
 
@@ -152,6 +157,8 @@ Please share more details about the role and application process.
 ```
 ### QR CODE
 
+![Databricks_Trainer QR Code](./qr-code-image/Job-Posting-DataBricks-Trainer.svg)
+
 
 ---
 
@@ -167,6 +174,8 @@ I’m interested in the Full Stack Java IT Trainer position at Tinitiate AI Solu
 Please share more details about the role and application process.
 ```
 ### QR CODE
+
+![Full_Stack_Java_Trainer QR Code](./qr-code-image/Job-Posting-Full-Stack-Java-Trainer.svg)
 
 
 ---
