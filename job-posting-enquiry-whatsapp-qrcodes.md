@@ -3,7 +3,7 @@
 
 ---
 
-## Job Posting FullStack React NextJS NodeJS Trainer
+## Job-Posting-FullStack-React-NextJS-NodeJS-Trainer
 ### Phone number 
 ```
 +91 6309123486
@@ -15,8 +15,8 @@ I’m interested in the Full-Stack Development IT Trainer position at Tinitiate 
 Please share more details about the role and application process.
 ```
 ### QR CODE 
-<img width="391" height="388" alt="image" src="https://github.com/user-attachments/assets/a47f3a5b-6b14-4460-aefe-728f77fcf4f0" />
-
+https://github.com/tinitiateprime/chat-enquiry-responses/blob/main/qr-code-image/Job-Posting-FullStack-React-NextJS-NodeJS-Trainer.svg
+![Full_Stack Trainer QR Code](./qr-code-image/Job-Posting-FullStack-React-NextJS-NodeJS-Trainer.svg)
 
 ---
 
