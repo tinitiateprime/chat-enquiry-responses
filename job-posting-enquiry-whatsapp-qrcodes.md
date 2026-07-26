@@ -181,17 +181,5 @@ Please share more details about the role and application process.
 
 ---
 
-## Job Posting Full Stack Java Trainer
-### Phone number 
-```
-+91 6309123486
-```
-### Message :
-```
-Hello Tintiate AI,
-I’m interested in the Full Stack Java IT Trainer position at Tinitiate AI Solutions.
-Please share more details about the role and application process.
-```
-### QR CODE
 
 
