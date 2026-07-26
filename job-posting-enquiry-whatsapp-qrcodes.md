@@ -39,7 +39,7 @@ I’m interested in the Data Engineering  IT Trainer position at Tinitiate AI So
 Please share more details about the role and application process.
 ```
 ### QR CODE
-![qr-code-image/Job-Posting-Data-Engineering-Trainer.svg]()
+![Data Engineering Trainer QR Code](../qr-code-image/Job-Posting-Data-Engineering-Trainer.svg)
 
 ---
 
