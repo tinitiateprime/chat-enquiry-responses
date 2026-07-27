@@ -162,7 +162,7 @@ Please share the course details, duration, fees, schedule, and enrollment proces
 ```
 ### QR CODE
 
-![Databricks Training Program QR Code](./qr-code-image/## Training-Posting-DataBricks.svg)
+![Databricks Training Program QR Code](./qr-code-image/Training-Posting-DataBricks.svg)
 
 
 ---
