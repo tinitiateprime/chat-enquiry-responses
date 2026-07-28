@@ -125,6 +125,12 @@ Please share the course details, duration, fees, schedule, and enrollment proces
 
 ![AZURE_Data_Engineering Training Program QR Code](./qr-code-image/Training-Posting-AZURE-Data-Engineering.svg)
 
+### Flyer
+
+## Azure Data Engineering Training Flyer
+
+![Azure Data Engineering Training Flyer](flyers/azure-data-engineering.jpg)
+
 ---
 
 ## Training-Posting-GCP-Data-Engineering
