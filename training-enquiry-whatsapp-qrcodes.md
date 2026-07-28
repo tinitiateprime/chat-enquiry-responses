@@ -19,6 +19,11 @@ Please share the course details, duration, fees, schedule, and enrollment proces
 
 ![Full_Stack Training_Program QR Code](./qr-code-image/Training-Posting-FullStack-React-NextJS-NodeJS.svg)
 
+
+### Flyer
+
+
+
 ---
 
 ## Training-Posting-Data-Engineering
@@ -95,6 +100,11 @@ Please share the course details, duration, fees, schedule, and enrollment proces
 ### QR CODE
 
 ![AWS_Data_Engineering Training Program QR Code](./qr-code-image/Training-Posting-AWS-Data-Engineering.svg)
+
+### Flyer
+
+![AWS Data Engineering Flyer](./flyer/aws-data-engineering.jpg)
+
 
 ---
 
