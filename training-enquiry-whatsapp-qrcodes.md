@@ -103,7 +103,9 @@ Please share the course details, duration, fees, schedule, and enrollment proces
 
 ### Flyer
 
-![AWS Data Engineering Flyer](./flyer/aws-data-engineering.jpg)
+## AWS Data Engineering Training Flyer
+
+![AWS Data Engineering Training Flyer](flyers/aws-data-engineering-training.jpg)
 
 
 ---
