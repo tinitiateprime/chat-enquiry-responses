@@ -193,7 +193,7 @@ Please share more details about the role and application process.
 ```
 ### QR CODE
 
-![Full_Stack_Java_Trainer QR Code](./qr-code-image/Job-Posting-Full-Stack-Java-Trainer.svg)
+![Full_Stack_Java_Trainer QR Code](./qr-code-image/mba.svg)
 
 
 ---
