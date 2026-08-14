@@ -179,6 +179,23 @@ Please share more details about the role and application process.
 ![Full_Stack_Java_Trainer QR Code](./qr-code-image/Job-Posting-Full-Stack-Java-Trainer.svg)
 
 
+## Job Posting Digital Marketing
+### Phone number 
+```
++91 6309123486
+```
+### Message :
+```
+Hello Tinitiate AI,
+
+I’m interested in the Digital Marketing Fresher position at Tinitiate AI Solutions.
+Please share more details about the role and application process.
+```
+### QR CODE
+
+![Full_Stack_Java_Trainer QR Code](./qr-code-image/Job-Posting-Full-Stack-Java-Trainer.svg)
+
+
 ---
 
 
