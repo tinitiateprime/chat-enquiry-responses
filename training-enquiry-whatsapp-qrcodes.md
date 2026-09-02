@@ -3,6 +3,33 @@
 
 ---
 
+## TinitiateAI Training hanging Banner
+### Phone number 
+```
++91 6309123486
+```
+### Message :
+```
+"Hello Tinitiate AI! 👋
+
+I’m interested in learning more about your IT training programs. Please share details about the available courses, schedules, fees, and enrollment process.
+
+Source: kothapet Banner"
+
+```
+### QR CODE 
+
+![Full_Stack Training_Program QR Code](./qr-code-image/Training-Posting-FullStack-React-NextJS-NodeJS.svg)
+
+
+### Flyer
+
+
+
+---
+
+---
+
 ## Training-Posting-FullStack-React-NextJS-NodeJS
 ### Phone number 
 ```
