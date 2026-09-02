@@ -19,7 +19,7 @@ Source: kothapet Banner"
 ```
 ### QR CODE 
 
-![Full_Stack Training_Program QR Code](./qr-code-image/Training-Posting-FullStack-React-NextJS-NodeJS.svg)
+![Tinitiate AI Banner Kothapet Area QR Code](./qr-code-image/wall-hanging-banner-kothapet-qrcode.jpg)
 
 
 ### Flyer
