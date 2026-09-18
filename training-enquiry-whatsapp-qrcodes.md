@@ -3,6 +3,33 @@
 
 ---
 
+## TinitiateAI Instagram Poster
+### Phone number 
+```
++91 6309123486
+```
+### Message :
+```
+Dear Students,
+
+Interested in building your future with AI? Connect with TinitiateAI and follow us for updates on AI training programs, workshops, and career opportunities.
+
+🌐 Visit: www.tinitiateai.com
+📸 Instagram: @tinitiate.ai
+
+Follow us and start your AI learning journey today!
+
+#TinitiateAI #AITraining #LearnAI #ArtificialIntelligence #CareerDevelopment"
+
+```
+### QR CODE 
+
+![Tinitiate AI Banner Kothapet Area QR Code](./qr-code-image/wall-hanging-banner-kothapet-qrcode.jpg)
+
+
+### Flyer
+
+
 ## TinitiateAI Training hanging Banner
 ### Phone number 
 ```
